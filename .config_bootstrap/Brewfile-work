@@ -62,6 +62,9 @@ brew 'imagemagick'
 brew 'terraform-docs'
 brew 'grep'
 brew 'tree'
+brew 'rbenv'
+brew 'rbenv-bundler'
+brew 'ruby-build'
 
 # Docker Tools
 cask 'docker'
