@@ -26,7 +26,6 @@ cask 'gpg-suite'
 cask 'font-fira-code'
 
 # CLI Tools
-brew 'atayarani/shell/configure_brewfile'
 brew 'atayarani/shell/configure_python'
 brew 'atayarani/shell/configure_ruby'
 brew 'atayarani/shell/configure_zsh'
