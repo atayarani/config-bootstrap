@@ -1,0 +1,35 @@
+# Taps
+tap 'homebrew/cask'
+tap 'buo/cask-upgrade'
+tap 'caskroom/fonts'
+tap 'johanhaleby/kubetail'
+tap 'homebrew/cask-versions'
+
+# Casks - GUI
+cask 'alfred'
+cask 'amazon-chime'
+cask 'authy'
+cask 'caffeine'
+cask 'grammarly'
+cask 'intellij-idea'
+cask 'keybase'
+cask 'pritunl'
+cask 'slack'
+cask 'textexpander'
+cask 'ipvanish-vpn'
+
+# Casks - CLI
+cask 'iterm2'
+cask 'gpg-suite'
+
+# CLI Tools
+brew 'tfenv'
+brew 'awscli'
+brew 'jq'
+brew 'graphviz'
+brew 'git'
+brew 'myrepos'
+brew 'vcsh'
+
+# Docker Tools
+cask 'docker'
